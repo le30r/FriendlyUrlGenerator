@@ -4,6 +4,19 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
+        <PackageVersion>0.0.1</PackageVersion>
+        <Title>Friendly URL Generator</Title>
+        <Authors>Ivan le30r Marinin</Authors>
+        <Description>
+Generates readable and easy to remember combinations of words to use as page names 
+
+Icon by SusanHanisch, CC BY-SA 4.0, via Wikimedia Commons</Description>
+        <Copyright>2022, le30r</Copyright>
+        <PackageProjectUrl>https://github.com/le30r/FriendlyUrlGenerator</PackageProjectUrl>
+        <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+        <RepositoryUrl>https://github.com/le30r/FriendlyUrlGenerator</RepositoryUrl>
+        <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+        <PackageTags>url, friendly</PackageTags>
     </PropertyGroup>
 
     <ItemGroup>

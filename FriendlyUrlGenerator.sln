@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyUrlGenerator", "FriendlyUrlGenerator\FriendlyUrlGenerator.csproj", "{67288282-4054-4E16-82B1-B31174800838}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FriendlyUrlGenerator", "FriendlyUrlGenerator\FriendlyUrlGenerator.csproj", "{448A94FC-E393-44A0-AA8B-4E570A82B129}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +8,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{67288282-4054-4E16-82B1-B31174800838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{67288282-4054-4E16-82B1-B31174800838}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{67288282-4054-4E16-82B1-B31174800838}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{67288282-4054-4E16-82B1-B31174800838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{448A94FC-E393-44A0-AA8B-4E570A82B129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448A94FC-E393-44A0-AA8B-4E570A82B129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448A94FC-E393-44A0-AA8B-4E570A82B129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448A94FC-E393-44A0-AA8B-4E570A82B129}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

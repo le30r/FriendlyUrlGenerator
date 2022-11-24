@@ -4,7 +4,7 @@
         <TargetFramework>net6.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-        <PackageVersion>0.0.1</PackageVersion>
+        <PackageVersion>0.0.2</PackageVersion>
         <Title>Friendly URL Generator</Title>
         <Authors>Ivan le30r Marinin</Authors>
         <Description>
@@ -17,6 +17,7 @@ Icon by SusanHanisch, CC BY-SA 4.0, via Wikimedia Commons</Description>
         <RepositoryUrl>https://github.com/le30r/FriendlyUrlGenerator</RepositoryUrl>
         <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
         <PackageTags>url, friendly</PackageTags>
+        <PackageIcon>icon.png</PackageIcon>
     </PropertyGroup>
 
     <ItemGroup>
@@ -40,6 +41,10 @@ Icon by SusanHanisch, CC BY-SA 4.0, via Wikimedia Commons</Description>
         <Content Include="Resources\EN\verbs.txt">
             <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
         </Content>
+        <None Update="icon.png">
+          <Pack>True</Pack>
+          <PackagePath></PackagePath>
+        </None>
     </ItemGroup>
 
     <ItemGroup>
